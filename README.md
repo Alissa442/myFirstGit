@@ -1,7 +1,7 @@
-# Project Title
+# Workshop 2
 
 **Project Description:**  
-A brief description of what this project does and what technologies it uses.
+Setting up git and merging with a collaborater 
 
 ## Install Instructions
 
